@@ -26,4 +26,3 @@ To get started with the project, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/deepanshu452/PDF-Q-A.git
-   cd document-chat-app
